@@ -1,5 +1,5 @@
 login
-sinup
+signup
 create new account 
 enter password
 username
