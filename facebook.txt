@@ -1,0 +1,6 @@
+login
+sinup
+create new account 
+enter password
+username
+forgot password
