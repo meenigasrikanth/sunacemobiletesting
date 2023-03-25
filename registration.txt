@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 name 
 father name 
 last name 
+=======
+name 
+father name 
+last name 
+>>>>>>> d923f13e507e178fe027f88a4fad25f4986e4413

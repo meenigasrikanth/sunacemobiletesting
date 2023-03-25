@@ -1,3 +1,0 @@
-name 
-father name 
-last name 
