@@ -1,6 +1,0 @@
-login
-signup
-create new account 
-enter password
-username
-forgot password
