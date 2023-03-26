@@ -1,4 +1,4 @@
-login
-chat
-enter otp
-fname
+chat 
+video call
+audio call
+send files
